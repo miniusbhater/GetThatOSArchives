@@ -1,2 +1,2 @@
-# GetThatOSCLI
-Old archived CLI version of GetThatOS
+# GetThatOSArchives
+Old parts of GetThatOS that have since been removed from the main repo
